@@ -1,0 +1,32 @@
+C:\Users\Altan\Desktop\DigitalWallet_0.2\bin\Debug\net6.0-windows\DigitalWallet.exe
+C:\Users\Altan\Desktop\DigitalWallet_0.2\bin\Debug\net6.0-windows\DigitalWallet.deps.json
+C:\Users\Altan\Desktop\DigitalWallet_0.2\bin\Debug\net6.0-windows\DigitalWallet.runtimeconfig.json
+C:\Users\Altan\Desktop\DigitalWallet_0.2\bin\Debug\net6.0-windows\DigitalWallet.dll
+C:\Users\Altan\Desktop\DigitalWallet_0.2\bin\Debug\net6.0-windows\DigitalWallet.pdb
+C:\Users\Altan\Desktop\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altan\Desktop\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.AssemblyInfoInputs.cache
+C:\Users\Altan\Desktop\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.AssemblyInfo.cs
+C:\Users\Altan\Desktop\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.csproj.CoreCompileInputs.cache
+C:\Users\Altan\Desktop\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.dll
+C:\Users\Altan\Desktop\DigitalWallet_0.2\obj\Debug\net6.0-windows\refint\DigitalWallet.dll
+C:\Users\Altan\Desktop\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.pdb
+C:\Users\Altan\Desktop\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.genruntimeconfig.cache
+C:\Users\Altan\Desktop\DigitalWallet_0.2\obj\Debug\net6.0-windows\ref\DigitalWallet.dll
+D:\VS Codes\DigitalWallet_0.2\bin\Debug\net6.0-windows\DigitalWallet.exe
+D:\VS Codes\DigitalWallet_0.2\bin\Debug\net6.0-windows\DigitalWallet.deps.json
+D:\VS Codes\DigitalWallet_0.2\bin\Debug\net6.0-windows\DigitalWallet.runtimeconfig.json
+D:\VS Codes\DigitalWallet_0.2\bin\Debug\net6.0-windows\DigitalWallet.dll
+D:\VS Codes\DigitalWallet_0.2\bin\Debug\net6.0-windows\DigitalWallet.pdb
+D:\VS Codes\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Codes\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.AssemblyInfoInputs.cache
+D:\VS Codes\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.AssemblyInfo.cs
+D:\VS Codes\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.csproj.CoreCompileInputs.cache
+D:\VS Codes\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.dll
+D:\VS Codes\DigitalWallet_0.2\obj\Debug\net6.0-windows\refint\DigitalWallet.dll
+D:\VS Codes\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.pdb
+D:\VS Codes\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.genruntimeconfig.cache
+D:\VS Codes\DigitalWallet_0.2\obj\Debug\net6.0-windows\ref\DigitalWallet.dll
+D:\VS Codes\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.ExpensesForm.resources
+D:\VS Codes\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.IncomeExpenseForm.resources
+D:\VS Codes\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.MainForm.resources
+D:\VS Codes\DigitalWallet_0.2\obj\Debug\net6.0-windows\DigitalWallet.csproj.GenerateResource.cache
